@@ -8,7 +8,7 @@
 - 💬 Ask me about **programming**
 
 - 📫 How to reach me **fowjaelahamed@gmail.com**
--  Check my [resume](https://fowjael.netlify.app/)
+-  Check my **[Resume]**(https://fowjael.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
